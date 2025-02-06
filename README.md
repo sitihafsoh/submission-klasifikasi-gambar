@@ -1,2 +1,2 @@
 # submission-klasifikasi-gambar
-Proyek Akhir: Klasifikasi Gambar (Dicoding)
+Proyek Akhir: Klasifikasi Gambar
